@@ -1,9 +1,6 @@
 <h1 align="center">Hola 👋, soy Santiago Carlos Boyadjian</h1>
 <h3 align="center">Un estudiante de Ingenieria en Sistemas de Informacion.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=santiagoboyadjian&label=Profile%20views&color=0e75b6&style=flat" alt="santiagoboyadjian" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santiagoboyadjian" alt="santiagoboyadjian" /></a> </p>
 
 - 🔭 Actualmente realizo un sistema operativo basado en **linux.**
 
